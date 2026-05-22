@@ -1,0 +1,6 @@
+{
+  "name": "ScholarHustle Portal",
+  "description": "A professional student freelance gig dashboard and learning portal with interactive career progress, custom gig creation, dynamic balance tracker, and micro-certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
